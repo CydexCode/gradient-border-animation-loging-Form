@@ -89,6 +89,7 @@ body {
 
 /* Create a text input with a label and underline */
 .box form .inputBox {
+    cursor: pointer;
     position: relative;
     width: 320px;
     width: 320px;
