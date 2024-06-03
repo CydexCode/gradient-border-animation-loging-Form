@@ -1,6 +1,6 @@
 # Animated Login Form using HTML and CSS | With Gradient Border
 
-![Next Article Preview](Preview.png)
+![Next Article Preview](Preview.jpg)
 
 
 Click for [Demo](https://youtu.be/X_RDAxl1o2A?si=JQhEr8OFSFJJa8V-)
